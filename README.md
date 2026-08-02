@@ -6,6 +6,16 @@
 
 ### Project Coordinator | PMO | Project Management Enthusiast
 
+<p align="center">
+
+![Project Management](https://img.shields.io/badge/Project%20Management-0052CC?style=for-the-badge)
+![PMO](https://img.shields.io/badge/PMO-0A66C2?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+
 Passionate about project planning, PMO operations, stakeholder communication, documentation, and continuous improvement.
 
 </div>
