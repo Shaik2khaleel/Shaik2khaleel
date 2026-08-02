@@ -1,68 +1,94 @@
+<div align="center">
+
 # Hi, I'm Shaik Khaleel 👋
 
-## Project Coordinator | PMO | Project Management Enthusiast
+### Project Coordinator | PMO | Project Management Enthusiast
 
-Welcome to my GitHub profile!
+Welcome to my GitHub Profile.
 
-I am an aspiring Project Coordinator with hands-on experience creating professional project management documentation, PMO deliverables, dashboards, and project reports using industry-standard practices.
+</div>
 
 ---
 
-## Skills
+## 👨‍💼 About Me
+
+I am an aspiring **Project Coordinator** passionate about project planning, PMO documentation, stakeholder communication, reporting, and process improvement.
+
+I enjoy creating professional project documentation and dashboards while continuously improving my project management skills.
+
+---
+
+## 🛠 Skills
 
 - Project Coordination
-- Project Planning
-- PMO Documentation
+- Project Documentation
+- PMO Support
 - Stakeholder Management
 - Risk Management
-- Agile Methodology
-- Waterfall Methodology
+- Scheduling
+- Status Reporting
+- Meeting Minutes (MoM)
+
+---
+
+## 💻 Tools
+
 - Microsoft Excel
-- Microsoft PowerPoint
-- Microsoft Word
+- Microsoft Project
+- Power BI
+- Jira
+- Trello
+- Asana
+- Microsoft Office
 - Git & GitHub
 
 ---
 
-## Featured Project
+## 📂 Portfolio
 
 ### 📁 Project Coordinator Portfolio
 
-A complete project documentation repository including:
-
-- Project Charter
 - Business Case
+- Project Charter
 - Stakeholder Register
-- Risk Register
-- RAID Log
-- Communication Plan
-- Project Schedule
-- Status Reports
-- Change Request Log
-- Issue Log
+- Project Reports
 - Meeting Minutes
-- Project Dashboards
-- PMO Templates
+- Dashboards
 
 Repository:
-**Project-Coordinator-Portfolio**
+
+➡️ **Project-Coordinator-Portfolio**
 
 ---
 
-## Currently Learning
+## 📜 Currently Learning
 
-- Advanced Project Management
-- Agile & Scrum
-- Microsoft Project
+- PMP Concepts
+- Agile Project Management
+- Scrum
 - Power BI
-- Jira
+- Advanced Excel
 
 ---
 
-## Connect With Me
+## 🎯 Career Objective
 
-- Email: shaikkhaleeljibran@gmail.com
+Seeking opportunities as a **Project Coordinator**, **PMO Analyst**, or **Project Management Associate**, where I can contribute through strong organization, communication, and documentation skills.
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+## 📫 Connect with Me
+
+- LinkedIn - https://www.linkedin.com/in/shaik-khaleel-a066a6236/
+- Email - shaikkhaleeljibran@gmail.com
+
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories.
+
+</div>
