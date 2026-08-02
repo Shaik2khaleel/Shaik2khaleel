@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="assets/profile.jpeg" width="220" alt="Shaik Khaleel">
+</p>
+
 # Hi, I'm Shaik Khaleel 👋
 
 ### Project Coordinator | PMO | Project Management Enthusiast
