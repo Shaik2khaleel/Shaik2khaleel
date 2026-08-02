@@ -1,38 +1,38 @@
 <div align="center">
 
-<p align="center">
-  <img src="assets/profile.jpeg" width="220" alt="Shaik Khaleel">
-</p>
+<img src="./assets/profile.jpeg" width="180" style="border-radius:50%;" />
 
 # Hi, I'm Shaik Khaleel 👋
 
 ### Project Coordinator | PMO | Project Management Enthusiast
 
-Welcome to my GitHub Profile.
+Passionate about project planning, PMO operations, stakeholder communication, documentation, and continuous improvement.
 
 </div>
 
 ---
 
-## 👨‍💼 About Me
+## About Me
 
-I am an aspiring **Project Coordinator** passionate about project planning, PMO documentation, stakeholder communication, reporting, and process improvement.
-
-I enjoy creating professional project documentation and dashboards while continuously improving my project management skills.
+- 📍 India
+- 💼 Aspiring Project Coordinator / PMO Professional
+- 📚 Learning Project Management, Agile & Scrum
+- 📊 Interested in Dashboards, Documentation & Process Improvement
+- 🎯 Goal: Build a career in Project Management
 
 ---
 
-## 🛠 Skills
+## Skills
 
 - Project Coordination
-- Project Documentation
-- PMO Support
-- Stakeholder Management
-- Risk Management
-- Scheduling
-- Status Reporting
-- Meeting Minutes (MoM)
-
+- PMO Documentation
+- Microsoft Excel
+- Power BI
+- Microsoft Office
+- Agile Fundamentals
+- Jira
+- Communication
+- Team Collaboration
 ---
 
 ## 💻 Tools
